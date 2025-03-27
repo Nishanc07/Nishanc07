@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+I'm Nisha 
+I am a DevOps Engineer, skilled in automating, optimizing, and securing modern software development and deployment processes
 
 <!--
 **Nishanc07/Nishanc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
