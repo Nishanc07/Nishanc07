@@ -28,7 +28,7 @@ Want to chat DevOps, dance, or recommend a good song? I'd love to hear from you!
 
 <table>
   <tr><td>Email</td><td>nishanc1711@gmail.com</td></tr>
-  <tr><td>Twitter</td><td><a href="https://x.com/Nishanc01">@siv2r</a></td></tr>
+  <tr><td>Twitter</td><td><a href="https://x.com/Nishanc01">@Nishanc01</a></td></tr>
   <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/nisha-n-c/">My profile</a></td></tr>
 </table>
 
