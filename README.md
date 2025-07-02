@@ -1,5 +1,8 @@
 <h1 align="center">Hey Everyone 👋, I'm Nisha N C</h1>
 
+I am a DevOps Engineer, skilled in automating, optimizing, and securing modern software development and deployment processes
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
@@ -20,9 +23,14 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
 </p>
 
+### Connect with me
+Want to chat DevOps, dance, or recommend a good song? I'd love to hear from you!
 
-
-I am a DevOps Engineer, skilled in automating, optimizing, and securing modern software development and deployment processes
+<table>
+  <tr><td>Email</td><td>nishanc1711@gmail.com</td></tr>
+  <tr><td>Twitter</td><td><a href="https://x.com/Nishanc01">@siv2r</a></td></tr>
+  <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/nisha-n-c/">My profile</a></td></tr>
+</table>
 
 <!--
 **Nishanc07/Nishanc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
