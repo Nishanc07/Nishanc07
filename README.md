@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Nisha N C</h1>
+<h1 align="center">Hey Everyone 👋, I'm Nisha </h1>
 
 I am a result-oriented Engineer with hands-on experience in supporting, automating, and optimizing deployments in multiple server & cloud. Hands-On experience in Building, Deploying, Source code management, leveraging configuration management, CI/CD, and DevOps processes. 
 
