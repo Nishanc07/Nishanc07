@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong>DevOps Engineer • Infra Architect • Platform Builder</strong><br/>
+  <strong>DevOps Engineer • CLoud • Security</strong><br/>
   Passionate about building real-world, production-ready systems that scale.
 </p>
 
