@@ -43,14 +43,10 @@ Want to chat DevOps, dance, or recommend a good song? I'd love to hear from you!
   <tr><td>LinkedIn</td><td><a href="https://www.linkedin.com/in/nisha-n-c/">My profile</a></td></tr>
 </table>
 
-
-
-
-
-
-
-
-
+<div align="center">
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=RealNameHidden&style=flat-square&color=58A6FF&label=visitors" alt="visitor count" /> 
+</div>
 
 
 
